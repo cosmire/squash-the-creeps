@@ -1,7 +1,7 @@
 {
   "template": "squash-the-creeps",
   "lane": "stable",
-  "checked_at": "2026-07-29T06:26:06Z",
+  "checked_at": "2026-07-30T06:21:51Z",
   "versions": {
     "godot": "4.5.2",
     "rust": "1.94.0",
